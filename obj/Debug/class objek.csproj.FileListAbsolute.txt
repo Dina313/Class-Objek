@@ -1,0 +1,7 @@
+D:\18.11.2372\class objek\class objek\class objek\obj\Debug\class objek.csprojAssemblyReference.cache
+D:\18.11.2372\class objek\class objek\class objek\obj\Debug\class objek.csproj.CoreCompileInputs.cache
+D:\18.11.2372\class objek\class objek\class objek\bin\Debug\class objek.exe.config
+D:\18.11.2372\class objek\class objek\class objek\bin\Debug\class objek.exe
+D:\18.11.2372\class objek\class objek\class objek\bin\Debug\class objek.pdb
+D:\18.11.2372\class objek\class objek\class objek\obj\Debug\class objek.exe
+D:\18.11.2372\class objek\class objek\class objek\obj\Debug\class objek.pdb
